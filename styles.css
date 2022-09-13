@@ -1,0 +1,63 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html,body{
+    background-size: auto;
+    height: 100%;
+    font-family: 'Candara';
+    background-color: #C7CFB7;
+    color: #557174;
+}
+
+.title {
+    margin: auto;
+    margin-top: -15%;
+    text-align: center;
+    font-size: 250%;
+    font-weight: bold;
+}
+
+.contenedor{
+    display: flex;
+    background-image: url(/images/frutas_principal.png);
+    background-size: cover;
+    height: 50vh;
+    opacity: 0.2;
+}
+
+.quienes_somos{
+    margin-top: 12%;
+    margin-left: 3%;
+    border: solid red;
+    float: left;
+}
+
+h1{ 
+    color: #557174;
+}
+
+.texto_logo{
+    margin-top: 15%;
+    margin-left: 3%;
+    border: solid red;
+    float: right;
+    font-size: 30px;
+}
+
+.sano_sabroso{
+    margin-top: 10%;
+    margin-left: -27%;
+    border: solid red;
+    float: right;
+    font-size: 30px;
+}
+
+.title2{
+    margin-top: 46%;
+    margin-left: -27%;
+    border: solid red;
+    float: left;
+}
+
